@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">simplePDF</string>
+    <string name="msg_pdfCreated">PDF Created</string>
+</resources>
